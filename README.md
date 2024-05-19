@@ -18,7 +18,7 @@ I'm currently a Software Engineer @ Everstage, based out of Chennai, India.
 - **Databases**: PostgreSQL, MongooDB.
 - **Tools & Platforms**: Git, Docker, Amazon Web Services (AWS), Apache Spark, Apache Hadoop.
 - **Others**: Data Structures, Algorithms, System Design.
-- 
+
 <!--
 ## 📈 GitHub Stats
 
