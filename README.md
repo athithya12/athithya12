@@ -2,7 +2,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athithya12&color=blue)
 
-I'm currently a Software Engineer @ Everstage.
+I'm currently build and manage data pipelines at Everstage.
+
+## My Journey
+
+- 💼 Everstage [Dec 2021 - Present]
+- 💼 Buckman Laboratories Internation [May 2020 - Dec 2020]
+- 🎓 PSG College of Technology [Jun 2017 - Jun 2022]
+- 🎒 Maharishi Vidya Mandir [Jun 2015 - Jun 2017]
+- 🎒 SBOA School and Junior College [Jun 2003 - Jun 2015]
+- 🎂 May 12, 2000
 
 ## About Me
 
@@ -25,7 +34,7 @@ I'm currently a Software Engineer @ Everstage.
 ![Athithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athithya12&show_icons=true&theme=radical)
 -->
 
-## 📫 My handles
+## 📫 My Handles
 
 - [LinkedIn](https://www.linkedin.com/in/athithya-vidyarth/)
 - [Email](mailto:avidyarth@gmail.com)
