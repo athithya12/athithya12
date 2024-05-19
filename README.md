@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athithya12&color=blue)
 
-I'm currently a Software Engineer @ Everstage, based out of Chennai, India.
+I'm currently a Software Engineer @ Everstage.
 
 ## About Me
 
