@@ -18,10 +18,12 @@ I'm currently a Software Engineer @ Everstage, based out of Chennai, India.
 - **Databases**: PostgreSQL, MongooDB.
 - **Tools & Platforms**: Git, Docker, Amazon Web Services (AWS), Apache Spark, Apache Hadoop.
 - **Others**: Data Structures, Algorithms, System Design.
-
+- 
+<!--
 ## 📈 GitHub Stats
 
 ![Athithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athithya12&show_icons=true&theme=radical)
+-->
 
 ## 📫 My handles
 
@@ -29,7 +31,9 @@ I'm currently a Software Engineer @ Everstage, based out of Chennai, India.
 - [Email](mailto:avidyarth@gmail.com)
 - [LeetCode](https://leetcode.com/u/avidyarth12/)
 
+<!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+-->
 
 ---
 
