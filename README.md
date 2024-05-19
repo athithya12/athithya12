@@ -7,7 +7,7 @@ I'm currently build and manage data pipelines at Everstage.
 ## My Journey
 
 - 💼 Everstage [Dec 2021 - Present]
-- 💼 Buckman Laboratories Internation [May 2020 - Dec 2020]
+- 💼 Buckman Laboratories International [May 2020 - Dec 2020]
 - 🎓 PSG College of Technology [Jun 2017 - Jun 2022]
 - 🎒 Maharishi Vidya Mandir [Jun 2015 - Jun 2017]
 - 🎒 SBOA School and Junior College [Jun 2003 - Jun 2015]
