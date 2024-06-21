@@ -16,7 +16,7 @@ I currently build and manage data pipelines at Everstage.
 ## About Me
 
 - 💻 I’m currently working on improving my skills in **Competitive Programming**.
-- 📚 I'm currently learning **GoLang**.
+- 📚 I'm currently learning **JAVA**.
 - 💡 Hit me up for a discussion about **Software Engineering**, and **System Design**.
 - ⚡ Fun fact: I have a love-hate relationship with leg days at the gym 😩.
 
