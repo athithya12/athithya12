@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athithya12&color=blue)
 
-I used to build and manage data pipelines at Everstage. Currently
+I used to build and manage data pipelines at Everstage.
 
 ## My Journey
 
