@@ -2,11 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athithya12&color=blue)
 
-I currently build and manage data pipelines at Everstage.
+I used to build and manage data pipelines at Everstage. Currently
 
 ## My Journey
 
-- 💼 Everstage [Dec 2021 - Present]
+- 💼 Everstage [Dec 2021 - Dec 2024]
 - 💼 Buckman Laboratories International [May 2020 - Dec 2020]
 - 🎓 PSG College of Technology [Jun 2017 - Jun 2022]
 - 🎒 Maharishi Vidya Mandir [Jun 2015 - Jun 2017]
@@ -16,16 +16,15 @@ I currently build and manage data pipelines at Everstage.
 ## About Me
 
 - 💻 I’m currently working on improving my skills in **Competitive Programming**.
-- 📚 I'm currently learning **JAVA**.
+- 📚 I'm currently learning **Java**, **GoLang**.
 - 💡 Hit me up for a discussion about **Software Engineering**, and **System Design**.
-- ⚡ Fun fact: I have a love-hate relationship with leg days at the gym 😩.
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, TypeScript.
+- **Languages**: Python, Java, GoLang, TypeScript.
 - **Web Development**: HTML, CSS, React.js.
 - **Databases**: PostgreSQL, MongooDB.
-- **Tools & Platforms**: Git, Docker, Amazon Web Services (AWS), Apache Spark, Apache Hadoop.
+- **Tools & Platforms**: Git, Docker, Amazon Web Services (AWS), Apache Spark, Apache Hadoop, Apache Kafka.
 - **Others**: Data Structures, Algorithms, System Design.
 
 <!--
