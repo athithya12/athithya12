@@ -2,10 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athithya12&color=blue)
 
-I used to build and manage data pipelines at Everstage.
+ I help build and scale the risk and compliance infrastructure at Google. Previously, I used to build and manage data pipelines at Everstage.
 
 ## My Journey
 
+- 💼 Google [Dec 2024 - Present]
 - 💼 Everstage [Dec 2021 - Dec 2024]
 - 💼 Buckman Laboratories International [May 2020 - Dec 2020]
 - 🎓 PSG College of Technology [Jun 2017 - Jun 2022]
@@ -16,7 +17,7 @@ I used to build and manage data pipelines at Everstage.
 ## About Me
 
 - 💻 I’m currently working on improving my skills in **Competitive Programming**.
-- 📚 I'm currently learning **Java**, **GoLang**.
+- 📚 I'm currently learning **GoLang**.
 - 💡 Hit me up for a discussion about **Software Engineering**, and **System Design**.
 
 ## 🛠️ Tech Stack
