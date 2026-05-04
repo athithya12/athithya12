@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athithya12&color=blue)
 
- I help build and scale the risk and compliance infrastructure at Google. Previously, I used to build and manage data pipelines at Everstage.
+ I help scale the Ads infrastructure for the entire planet at Google. Previously, I used to build and manage data at Everstage.
 
 ## My Journey
 
